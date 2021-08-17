@@ -23,11 +23,11 @@ createServer({
         },
         {
           id:2,
-          title: 'Alugeul',
+          title: 'Aluguel',
           type: 'withdraw',
-          category: 'Dev',
-          amount: 6000,
-          createdAt: new Date('2021-02-12 09:00:00')
+          category: 'Casa',
+          amount: 1000,
+          createdAt: new Date('2021-05-07 16:00:00')
         },
       ]
     })
