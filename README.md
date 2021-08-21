@@ -17,10 +17,15 @@ VS Code
 ### 🔧 Installation
 
 ```
+yarn 
+```
+### 📦 In the project directory, you can run:
+
+```
 yarn start
 ```
-## 🛠️ Built with
 
+## 🛠️ Built with
 
 * [React](https://pt-br.reactjs.org/) - Framework web 
 * [MirageJS](https://miragejs.com/) - API mocking library
