@@ -1,4 +1,4 @@
-# dtmoney
+# dtmoney 🤑
 
 This is an application is a personal finance control project.
 
